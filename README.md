@@ -5,4 +5,4 @@
 
 ### Phot Credit: Water Bottle photo by https://www.anypromo.com/
 
-#### Developers who helped me: 
+#### Developers who helped me: https://EricB23.github.io/Html-practice/
